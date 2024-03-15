@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "title": "Greenfort",
+        "description": "Útil para patologías de origen reumático como artrosis y artritis, frasco contiene 90 cápsulas",
+        "price": 15000,
+        "img": "sin img",
+        "code": "COD1",
+        "stock": 500
+    },
+    {
+        "id":2,
+        "title": "Betacar Solar",
+        "description": "Alta capacidad antioxidante, contribuyendo en un correcto funcionamiento del sistema inmunológico, frasco contiene 60 cápsulas",
+        "price": 1000,
+        "img": "sin img",
+        "code": "COD2",
+        "stock": 600
+    },
+    {
+        "id":3,
+        "title": "Vari Pax Forte",
+        "description":"Útil para la congestion venosa, várices, contra el dolor e hinchazón de piernas y úlceras varicosas",
+        "price": 1200,
+        "img": "sin img",
+        "code": "COD3",
+        "stock": 450
+    },
+    {
+        "id":4,
+        "title": "Vitamina E",
+        "description": "Contiene propiedades antioxidantes, útil para combatir el envejecimiento prematuro, frasco posee 60 cápsulas",
+        "price": 6000,
+        "img": "sin img",
+        "code": "COD4",
+        "stock": 120
+    },
+    {
+        "id":5,
+        "title": "Vission Help",
+        "description": "Ayuda a mantener una vista saludable, fortalecer el globo ocular, evita aparicion de cataratas en los ojos, frasco contiene 60 cápsulas",
+        "price": 8000,
+        "img": "sin img",
+        "code": "COD5",
+        "stock": 100
+        },
+    {
+        "id":6,
+        "title": "Reuma Huesitos",
+        "description": "Indicada para golpes, calambres, artritis, lumbago, bronquitis, torceduras, reumatismo, masajes deportivos, dolores musculares, tos, etc.",
+        "price": 2000,
+        "img": "sin img",
+        "code": "COD6",
+        "stock": 230
+    },
+    {
+        "id":7,
+        "title": "Propoleo",
+        "description": "Cicatrizante natural que favorece la formación de nuevos tejidos. presentacion de 15 ml",
+        "price": 5000,
+        "img": "sin img",
+        "code": "COD7",
+        "stock": 80
+    },
+    {
+        "id":8,
+        "title": "Promiel",
+        "description": "Estimulante del sistema inmunológico para sentir la garganta fresca y despejada",
+        "price": 3000,
+        "img": "sin img",
+        "code": "COD8",
+        "stock": 700
+    },
+    {
+        "id":9,
+        "title": "Complejo B",
+        "description": "Útil para mantención sistema inmunológico, fortalecimiento del sistema endocrino, nervioso y cabello",
+        "price": 25000,
+        "img": "sin img",
+        "code": "COD9",
+        "stock": 700
+    },
+    {
+        "id":10,
+        "title": "Spirulina",
+        "description": "Suplemento alimenticio natural 100% organico",
+        "price": 9000,
+        "img": "sin img",
+        "code": "COD10",
+        "stock": 640
+    }
+]
